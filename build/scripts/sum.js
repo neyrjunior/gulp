@@ -1,0 +1,1 @@
+function ಠ_ಠ461(o,r){return o+r}module.ಠ_ಠ462=ಠ_ಠ461;
